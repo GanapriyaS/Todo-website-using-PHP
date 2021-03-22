@@ -28,6 +28,6 @@ Command to open Xampp from command line:
  If error or if MySQL or apache server not starts then run this commands
  
  * sudo ./lampp start
- * sudo service mysql stop
- * sudo service mysql start
+ * sudo service mysqld stop
+ * sudo service mysqld start
  
